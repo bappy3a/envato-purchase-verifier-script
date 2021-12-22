@@ -1,1 +1,1 @@
-# -envato-purchase-verifier-script
+# Envato Purchase Verifier is a php script
