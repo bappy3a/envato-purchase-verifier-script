@@ -1,0 +1,1 @@
+# -envato-purchase-verifier-script
